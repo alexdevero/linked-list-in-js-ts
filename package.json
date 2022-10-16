@@ -1,7 +1,7 @@
 {
-  "name": "linked-list-in-js",
+  "name": "linked-list-in-js-ts",
   "version": "1.0.0",
-  "description": "A linked list in JavaScript",
+  "description": "Simple implementation of linked list structure in JavaScript (TypeScript).",
   "main": "src/index.ts",
   "scripts": {
     "start": "nodemon src/index.ts",
